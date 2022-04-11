@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "pipeclone/static/js/main.580e9467.chunk.js",
-    "main.js.map": "pipeclone/static/js/main.580e9467.chunk.js.map",
-    "runtime~main.js": "pipeclone/static/js/runtime~main.f18b0325.js",
-    "runtime~main.js.map": "pipeclone/static/js/runtime~main.f18b0325.js.map",
-    "static/js/2.bbaf53c6.chunk.js": "pipeclone/static/js/2.bbaf53c6.chunk.js",
-    "static/js/2.bbaf53c6.chunk.js.map": "pipeclone/static/js/2.bbaf53c6.chunk.js.map",
-    "index.html": "pipeclone/index.html",
-    "precache-manifest.e29be62a31740fe67838f7d4e8cf7da3.js": "pipeclone/precache-manifest.e29be62a31740fe67838f7d4e8cf7da3.js",
-    "service-worker.js": "pipeclone/service-worker.js"
+    "main.js": "pipefy-clone/static/js/main.580e9467.chunk.js",
+    "main.js.map": "pipefy-clone/static/js/main.580e9467.chunk.js.map",
+    "runtime~main.js": "pipefy-clone/static/js/runtime~main.8954456f.js",
+    "runtime~main.js.map": "pipefy-clone/static/js/runtime~main.8954456f.js.map",
+    "static/js/2.f4c74e0d.chunk.js": "pipefy-clone/static/js/2.f4c74e0d.chunk.js",
+    "static/js/2.f4c74e0d.chunk.js.map": "pipefy-clone/static/js/2.f4c74e0d.chunk.js.map",
+    "index.html": "pipefy-clone/index.html",
+    "precache-manifest.9bb918148588bae97bc4fa92a966ef5e.js": "pipefy-clone/precache-manifest.9bb918148588bae97bc4fa92a966ef5e.js",
+    "service-worker.js": "pipefy-clone/service-worker.js"
   }
 }
