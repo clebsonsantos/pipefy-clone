@@ -1,7 +1,7 @@
 {
   "name": "pipeclone",
   "version": "0.1.0",
-  "homepage": "github-page/",
+  "homepage": "pipeclone/",
   "private": true,
   "dependencies": {
     "immer": "^3.1.3",
