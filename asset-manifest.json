@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "github-page/static/js/main.580e9467.chunk.js",
-    "main.js.map": "github-page/static/js/main.580e9467.chunk.js.map",
-    "runtime~main.js": "github-page/static/js/runtime~main.45044859.js",
-    "runtime~main.js.map": "github-page/static/js/runtime~main.45044859.js.map",
-    "static/js/2.5926bbe0.chunk.js": "github-page/static/js/2.5926bbe0.chunk.js",
-    "static/js/2.5926bbe0.chunk.js.map": "github-page/static/js/2.5926bbe0.chunk.js.map",
-    "index.html": "github-page/index.html",
-    "precache-manifest.afa99ad4dc54c0058f93cdeb0961bd2b.js": "github-page/precache-manifest.afa99ad4dc54c0058f93cdeb0961bd2b.js",
-    "service-worker.js": "github-page/service-worker.js"
+    "main.js": "pipeclone/static/js/main.580e9467.chunk.js",
+    "main.js.map": "pipeclone/static/js/main.580e9467.chunk.js.map",
+    "runtime~main.js": "pipeclone/static/js/runtime~main.f18b0325.js",
+    "runtime~main.js.map": "pipeclone/static/js/runtime~main.f18b0325.js.map",
+    "static/js/2.bbaf53c6.chunk.js": "pipeclone/static/js/2.bbaf53c6.chunk.js",
+    "static/js/2.bbaf53c6.chunk.js.map": "pipeclone/static/js/2.bbaf53c6.chunk.js.map",
+    "index.html": "pipeclone/index.html",
+    "precache-manifest.e29be62a31740fe67838f7d4e8cf7da3.js": "pipeclone/precache-manifest.e29be62a31740fe67838f7d4e8cf7da3.js",
+    "service-worker.js": "pipeclone/service-worker.js"
   }
 }
