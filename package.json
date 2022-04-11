@@ -1,7 +1,7 @@
 {
   "name": "pipefy-clone",
   "version": "0.1.0",
-  "homepage": "pipefy-clone/",
+  "homepage": "https://clebsonsantos.com/pipefy-clone/",
   "private": true,
   "dependencies": {
     "immer": "^3.1.3",
